@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Busineess-card-template/static/css/main.69beb5be.chunk.css",
-    "main.js": "/Busineess-card-template/static/js/main.642cc80b.chunk.js",
-    "main.js.map": "/Busineess-card-template/static/js/main.642cc80b.chunk.js.map",
-    "runtime-main.js": "/Busineess-card-template/static/js/runtime-main.11a6aeb3.js",
-    "runtime-main.js.map": "/Busineess-card-template/static/js/runtime-main.11a6aeb3.js.map",
-    "static/js/2.8c24cca5.chunk.js": "/Busineess-card-template/static/js/2.8c24cca5.chunk.js",
-    "static/js/2.8c24cca5.chunk.js.map": "/Busineess-card-template/static/js/2.8c24cca5.chunk.js.map",
-    "index.html": "/Busineess-card-template/index.html",
-    "static/css/main.69beb5be.chunk.css.map": "/Busineess-card-template/static/css/main.69beb5be.chunk.css.map",
-    "static/js/2.8c24cca5.chunk.js.LICENSE.txt": "/Busineess-card-template/static/js/2.8c24cca5.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.69beb5be.chunk.css",
+    "main.js": "/static/js/main.642cc80b.chunk.js",
+    "main.js.map": "/static/js/main.642cc80b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.646feff7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.646feff7.js.map",
+    "static/js/2.5c5be6ae.chunk.js": "/static/js/2.5c5be6ae.chunk.js",
+    "static/js/2.5c5be6ae.chunk.js.map": "/static/js/2.5c5be6ae.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.69beb5be.chunk.css.map": "/static/css/main.69beb5be.chunk.css.map",
+    "static/js/2.5c5be6ae.chunk.js.LICENSE.txt": "/static/js/2.5c5be6ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.11a6aeb3.js",
-    "static/js/2.8c24cca5.chunk.js",
+    "static/js/runtime-main.646feff7.js",
+    "static/js/2.5c5be6ae.chunk.js",
     "static/css/main.69beb5be.chunk.css",
     "static/js/main.642cc80b.chunk.js"
   ]
